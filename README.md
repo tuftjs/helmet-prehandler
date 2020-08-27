@@ -58,4 +58,4 @@ The creator and maintainer of Helmet Prehandler is [Stuart Kennedy](https://gith
 Helmet is maintained by a team of [contributors](https://helmetjs.github.io/contributors/).
 
 ## License
-[MIT](https://github.com/tuftjs/ejs-responder/blob/master/LICENSE)
+[MIT](https://github.com/tuftjs/helmet-prehandler/blob/master/LICENSE)
