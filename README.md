@@ -3,6 +3,7 @@
 ![Node.js CI](https://github.com/tuftjs/helmet-prehandler/workflows/Node.js%20CI/badge.svg)
 [![Coverage Status](https://coveralls.io/repos/github/tuftjs/helmet-prehandler/badge.svg)](https://coveralls.io/github/tuftjs/helmet-prehandler)
 [![Known Vulnerabilities](https://snyk.io/test/github/tuftjs/helmet-prehandler/badge.svg?targetFile=package.json)](https://snyk.io/test/github/tuftjs/helmet-prehandler?targetFile=package.json)
+![npm](https://img.shields.io/npm/v/@tuft/helmet-prehandler)
 
 Helmet Prehandler is a first-party extension for Tuft that acts as a simple wrapper for [Helmet](https://helmetjs.github.io/), the popular security middleware package for Express.
 
