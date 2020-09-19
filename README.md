@@ -1,6 +1,6 @@
 # Helmet Prehandler
 
-![Node.js CI](https://github.com/tuftjs/helmet-prehandler/workflows/Node.js%20CI/badge.svg)
+![CI](https://github.com/tuftjs/helmet-prehandler/workflows/Node.js%20CI/badge.svg)
 [![Coverage Status](https://coveralls.io/repos/github/tuftjs/helmet-prehandler/badge.svg)](https://coveralls.io/github/tuftjs/helmet-prehandler)
 [![Known Vulnerabilities](https://snyk.io/test/github/tuftjs/helmet-prehandler/badge.svg?targetFile=package.json)](https://snyk.io/test/github/tuftjs/helmet-prehandler?targetFile=package.json)
 ![npm](https://img.shields.io/npm/v/@tuft/helmet-prehandler)
