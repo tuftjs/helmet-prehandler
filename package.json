@@ -1,6 +1,6 @@
 {
   "name": "@tuft/helmet-prehandler",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Secure HTTP headers for Tuft.",
   "author": "Stuart Kennedy",
   "license": "MIT",
